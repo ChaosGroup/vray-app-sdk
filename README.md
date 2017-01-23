@@ -1,1 +1,1 @@
-V-Ray App SDK
+V-Ray App SDK 1.0
